@@ -1,4 +1,3 @@
-# Hi there 👋
 
 ## Hola, soy Julio César López Félix 👋 <!--[cite: 1] -->
 
@@ -89,9 +88,7 @@ Me encanta aprender cosas nuevas, trabajar en equipo y aprovechar las fortalezas
 ---
 
 ### 📊 Mis Estadísticas
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cesar-Fex04&show_icons=true&theme=react&hide_border=true)](https://github.com/Cesar-Fex04)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Cesar-Fex04&theme=react&hide_border=true)](https://github.com/Cesar-Fex04)
-
 <!--
 **Cesar-Fex04/Cesar-Fex04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
