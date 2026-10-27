@@ -3,7 +3,7 @@
 
 ### | Full-Stack Developer | Exploring Data Science and Machine Learning
 
-Estudiante de Ingeniería en Sistemas de Información, con formación técnica en programación desde bachillerato. Mi experiencia académica se ha enfocado principalmente en el desarrollo de software, área donde he desarrollado mayor fortaleza. Sin embargo, también me interesa muchísimo el mundo de los datos, y me gustaría seguir profundizando en análisis, ciencia e ingeniería de datos. Me encanta aprender cosas nuevas y trabajar en equipo, por lo que busco una práctica profesional que me permita expresar mis ideas, aportar lo que sé y seguir creciendo profesionalmente. <!--[cite: 1] -->. 
+Estudiante de Ingeniería en Sistemas de Información, con formación técnica en programación desde bachillerato. Mi experiencia académica se ha enfocado principalmente en el desarrollo de software, área donde he desarrollado mayor fortaleza. Sin embargo, también me interesa muchísimo el mundo de los datos, y me gustaría seguir profundizando en análisis, ciencia e ingeniería de datos. Me encanta aprender cosas nuevas y trabajar en equipo. <!--[cite: 1] -->. 
 
 ---
 
